@@ -1,4 +1,4 @@
-# Research-Project
+# Project Descriptions
 Codes and Reports file related to Project Work
 
 - Classifying Diabetes Cases in a Health Dataset | R and Python
