@@ -950,7 +950,7 @@ The plot shows that the Random Forest classifier has best accuracy and precision
 
 .red[Comparing all aspects of models and thoroughly evaluating them, we choose .font[Random Forest] as the ultimate winner !!!]
 ---
-# SUMMERY
+# SUMMARY
 
 - .font["HighBPI", "HighChol", "BMI", "Smoker", "Stroke" positively affects ones diabetes status. That means if a person has high BPI, high BMI, high Cholestrol or if he is a smoker then he is likely to be diagnosed by Diabetes.]
 
